@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">robonomics-demo</string>
+    <string name="create_wallet">load wallet</string>
+    <string name="your_address_will_be_shown_here">your address will be shown here</string>
+    <string name="balance"> retrieve balance</string>
+    <string name="send">Send</string>
+    <string name="please_check_your_balance"> your balance will be shown here</string>
+    <string name="your_balance">\" your balance in wei is : \"</string>
+    <string name="enter_eth_value_to_send">enter XRT value to send</string>
+    <string name="enter_wallet_name">enter private key</string>
+    <string name="enter_eth_receiver_address">enter XRT receiver address</string>
+    <string name="your_address">\"Your address is \"</string>
+</resources>
